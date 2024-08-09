@@ -1,3 +1,3 @@
 # github-demo1
-First git repository.<br>
-Author : Mayank Sangwan
+First git repository for practice.<br>
+Author: Mayank Sangwan
